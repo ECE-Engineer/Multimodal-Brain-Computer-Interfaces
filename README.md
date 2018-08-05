@@ -73,4 +73,4 @@ I will refer to different project components throughout this page as (1, 2, or 3
 [Kyle Zeller](http://cs.oswego.edu/~kzeller/)
 
 ### My Contact Info
-[Email](kzeller@oswego.edu)
+* kzeller@oswego.edu
