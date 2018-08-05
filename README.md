@@ -9,6 +9,9 @@ This is a multidisciplinary research project, branching accross the fields of Ne
  Java, Batch, MATLAB, and Python". These languages provided the means to have a UI to collect the data with,
  preprocess the data, and run the encoded data through a convolutional neural network (CNN).
 
+## Reminder
+I will refer to different project components throughout this page as (1, 2, or 3).
+
 ## Project Components
 1. Data Acquisition
 2. Preprocessing
@@ -60,22 +63,37 @@ This is a multidisciplinary research project, branching accross the fields of Ne
 * [TensorFlow](https://www.tensorflow.org/)
 
 ## Run Intructions
+### Running (1)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
+### Running (2)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Running (3)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 
