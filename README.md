@@ -106,7 +106,7 @@ I will refer to different project components throughout this page as (1, 2, or 3
 * [GPU] --> Roughly 2 hours training on an Nvidia 1070
 
 ### My Website
-[My Website](http://cs.oswego.edu/~kzeller/)
+[Kyle Zeller](http://cs.oswego.edu/~kzeller/)
 
-###My Contact Info
+### My Contact Info
 [Email](kzeller@oswego.edu)
