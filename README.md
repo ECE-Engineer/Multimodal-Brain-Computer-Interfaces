@@ -1,5 +1,5 @@
-# Multimodal-Brain-Computer-Interfaces
-======================================
+Multimodal-Brain-Computer-Interfaces
+====================================
 My research to using convolutional neural network architectures for decoding visual stimuli with EEGs.
 ------------------------------------------------------------------------------------------------------
 
