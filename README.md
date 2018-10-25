@@ -5,8 +5,8 @@ My research to using convolutional neural network architectures for decoding vis
 
 ## Background Info
 This is a multidisciplinary research project, branching accross the fields of Neuroscience, Electrical Engineering,
- and Computer Science. Five programming languages were utilized to bring this research to fruition i.e. "Processing,
- Java, Batch, MATLAB, and Python". These languages provided the means to have a UI to collect the data with,
+ and Computer Science. Five programming languages were utilized to bring this research to fruition i.e. "**Processing**,
+ **Java**, **Batch**, **MATLAB**, and **Python**". These languages provided the means to have a UI to collect the data with,
  preprocess the data, and run the encoded data through a convolutional neural network (CNN).
 
 ## Reminder
@@ -68,6 +68,7 @@ I will refer to different project components throughout this page as (1, 2, or 3
 * [TensorFlow](https://www.tensorflow.org/)
 
 ## Run Intructions ----------- *WORK IN PROGRESS*
+### Updates Comming Soon!
 
 ### My Website
 [Kyle Zeller](http://cs.oswego.edu/~kzeller/)
