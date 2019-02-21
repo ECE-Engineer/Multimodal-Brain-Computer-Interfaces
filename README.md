@@ -1,4 +1,4 @@
-Multimodal-Brain-Computer-Interfaces
+Multimodal-Brain-Computer-Interfaces (EXPECT A BIG UPDATE SOON!)
 ====================================
 My research to using convolutional neural network architectures for decoding visual stimuli with EEGs.
 ------------------------------------------------------------------------------------------------------
@@ -68,7 +68,9 @@ I will refer to different project components throughout this page as (1, 2, or 3
 * [TensorFlow](https://www.tensorflow.org/)
 
 ## Run Intructions ----------- *WORK IN PROGRESS*
-### Updates Comming Soon!
+# BIG Update Comming Soon!
+* IEEE is soon to publish the papers from the MIT fall 2018 conference
+* I also just got my hard drive back, which has my code on it.
 
 ### My Website
 [Kyle Zeller](http://cs.oswego.edu/~kzeller/)
